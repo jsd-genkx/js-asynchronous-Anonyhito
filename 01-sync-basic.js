@@ -15,4 +15,4 @@ export const syncBasic = () => {
 	console.log(4);
 };
 
-// syncBasic();
+syncBasic();

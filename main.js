@@ -37,7 +37,7 @@ runButton.addEventListener("click", () => {
 	// promiseOrderFood();
 	/* 10-promise-chainning.js */
 	// promiseChaining();
-	/* 11-promise-all */
+	// /* 11-promise-all */
 	// promiseAllOrders();
 	/* 12-fetch-data-basic.js */
 	// fetchDataBasic();
@@ -47,4 +47,7 @@ runButton.addEventListener("click", () => {
 	// fetchDataAsync();
 	/* 15-try-catch-finally.js */
 	// fetchDataAsyncSingle(10);
+
+	/* exercises/01-fetch-api-posts.js */
+	fetchDataBasic();
 });

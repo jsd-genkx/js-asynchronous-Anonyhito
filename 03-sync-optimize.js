@@ -18,4 +18,4 @@ export const syncOptimize = () => {
 	console.log(`Normal Task #3`);
 };
 
-// syncOptimize();
+syncOptimize();
